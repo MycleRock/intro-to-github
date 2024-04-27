@@ -14,3 +14,7 @@ The **Pull requests** tab contains proposals to make some changes in the files l
 You can create an *Issue* or make a *Pull request (PR)* to contribute to the project.
 
 If you want to propose some changes to this repo, you may *fork* it, modify the content, and create *PR*. A *fork* is just a copy that allows you to change the content without affection the original project.
+
+Additional Information:
+
+The README.md is often the first file a visitor to the repository sees as it is displayed by default on the repository homepage. A well-written README.md can thus help give other developers a quick overview of the project and encourage them to engage with it or even contribute to the project.
